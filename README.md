@@ -9,7 +9,7 @@ A documentação completa, com o esquema de integração, a justificativa técni
 
 Estrutura do repositório
 .
-├── README.md
+├──README.md
 ├── src/
 │   ├── main.py            # lógica de leitura, cálculo do preço e controle das saídas
 │   └── lcd\\\_i2c.py         # controle do display LCD por I2C
